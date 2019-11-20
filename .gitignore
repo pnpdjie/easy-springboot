@@ -12,6 +12,7 @@
 ##class file##
 *.com  
 *.class  
+
 *.dll  
 *.exe  
 *.o  
